@@ -1,0 +1,76 @@
+Ticket Number,How was the issue observed,What is the issue,Why is this an issue,Root cause,Root cause category,Solution implemented,Team solved,Technician ID,Time Required (hrs),Total Cost (USD),Service Rating,Follow-Up Date,Vehicle ID,date
+T001,Error code on dashboard,Charging stopped at 60%,Incomplete charging affects driving range,Faulty charging cable,Hardware,Replaced cable,Charging,T007,7,787,2,2024-12-01,V01,2024-11-08
+T002,Vehicle unable to charge,Plug does not latch properly,Unable to initiate charging,Damaged charging port,Hardware,Replaced charging port,Maintenance,T009,3,700,2,2024-12-09,V02,2024-11-12
+T003,Charging time unusually long,Charging rate dropped to 3kW,Longer charging time impacts vehicle usability,Power fluctuation in grid,External,Verified power supply,Charging,T008,7,390,4,2024-12-09,V03,2024-11-10
+T004,Routine inspection,Frayed charging cable,Safety hazard due to potential short-circuit,Poor material quality,Manufacturing,Replaced cable,Maintenance,T006,7,634,3,2024-12-02,V04,2024-11-10
+T005,Customer complaint,Vehicle battery not reaching full charge,Reduced driving range,Calibration issue in charging,Software,Calibrated battery charging system,Engineering,T004,1,112,3,2024-12-06,V05,2024-11-05
+T006,Error message on charging station,Communication error between vehicle and charger,Inability to start or continue charging,Firmware mismatch,Software,Updated firmware,IT,T010,6,576,3,2024-12-07,V06,2024-11-10
+T007,Charge incomplete notification,Charging session interrupted,Leads to frequent visits to the charging station,Overheating detected,Hardware,Improved cooling system,Charging,T006,7,576,4,2024-11-17,V07,2024-11-12
+T008,Vehicle inspection,Minor burn marks on plug,Possible risk of electric shock,Arcing in charging socket,Hardware,Replaced charging socket,Maintenance,T003,1,429,2,2024-11-14,V08,2024-11-05
+T009,Performance testing,Slow DC fast charging rate,Long wait times at public stations,Faulty cooling system,Hardware,Replaced cooling system,Engineering,T003,4,323,1,2024-12-07,V09,2024-11-11
+T010,During diagnostic,Battery charge level fluctuates,Unreliable battery gauge,Loose connection in battery,Electrical,Repaired connection,Electrical,T010,2,600,5,2024-11-19,V10,2024-11-13
+T011,Driver reported,Charger keeps restarting,Delays full charge completion,Malfunction in charger software,Software,Reinstalled software,IT,T006,5,360,4,2024-12-03,V11,2024-11-09
+T012,Error code on app,Charge scheduling failed,User inconvenience,Software bug,Software,Bug fix and update,Engineering,T001,8,456,4,2024-11-26,V12,2024-11-07
+T013,Inspection after charge,Plug becomes warm quickly,Risk of overheating or damage,High resistance in connector,Hardware,Replaced connector,Maintenance,T006,6,522,1,2024-12-04,V13,2024-11-08
+T014,Charging station audit,Socket locking mechanism stuck,Disruption in charging process,Physical damage to mechanism,Hardware,Repaired locking mechanism,Maintenance,T009,2,249,3,2024-12-10,V14,2024-11-07
+T015,Routine diagnostic,Charge speed fluctuating,Unpredictable charging times,Power delivery issue,Electrical,Replaced power regulator,Charging,T003,1,696,4,2024-11-14,V15,2024-11-06
+T016,Customer feedback,Charger doesn't start when plugged,Charging fails completely,Faulty contact points,Hardware,Replaced contact points,Electrical,T001,1,518,5,2024-11-29,V16,2024-11-09
+T017,Remote monitoring alert,Battery not holding charge effectively,Reduces overall vehicle range,Degradation in battery cells,Hardware,Replaced battery,Engineering,T005,2,790,5,2024-11-14,V17,2024-11-13
+T018,Driver complaint,Charging halts midway,Incomplete charging affects daily use,Software glitch,Software,Software update,IT,T007,1,155,4,2024-12-03,V18,2024-11-10
+T019,Error code from system,Faulty power relay during charge,Risk of electric failure,Defective relay switch,Hardware,Replaced relay switch,Electrical,T005,2,415,2,2024-12-11,V19,2024-11-09
+T020,Charge test,Charging stops when door opens,Unexpected behavior; disrupts charging,Faulty door sensor,Electrical,Replaced door sensor,Electrical,T005,8,762,1,2024-11-28,V20,2024-11-07
+T021,Charging station report,Connector jammed,Prevents connection with vehicle,Dirt accumulation,External,Cleaned connector,Maintenance,T010,4,616,1,2024-12-06,V21,2024-11-04
+T022,Vehicle inspection,Battery overheats during charge,Risk of battery degradation or damage,Cooling system failure,Hardware,Replaced cooling system,Maintenance,T006,7,421,4,2024-12-03,V22,2024-11-10
+T023,Charging session log,Charging stalls at random percentages,Inconsistent charging experience,Software timeout,Software,Increased timeout limit,IT,T009,1,431,1,2024-11-12,V23,2024-11-11
+T024,User report,Vehicle requires restart to begin charging,Frustrating user experience,Software reset needed,Software,Reinstalled software,IT,T010,7,303,1,2024-12-11,V24,2024-11-09
+T025,Charging port inspection,Pins in connector bent,Inability to connect to charger,Physical wear,Hardware,Replaced connector pins,Maintenance,T003,1,713,1,2024-12-06,V25,2024-11-11
+T026,Technician report,High power draw during initial charge,May cause electrical overload,Malfunctioning power regulator,Electrical,Replaced power regulator,Electrical,T004,6,551,1,2024-11-28,V26,2024-11-09
+T027,Error code from charging unit,Voltage spike detected,Potential damage to battery,Power surge,External,Verified surge protection,Electrical,T008,2,211,5,2024-12-10,V27,2024-11-12
+T028,Customer service call,Vehicle unable to charge at specific stations,Limits charging options for users,Incompatibility with charger type,Compatibility,Replaced charger with compatible model,IT,T007,6,169,5,2024-12-09,V28,2024-11-04
+T029,Routine maintenance,Battery calibration failure,Battery not fully charged,Firmware bug,Software,Firmware update,Engineering,T007,4,605,3,2024-11-20,V29,2024-11-11
+T030,Dashboard error,Battery drops suddenly after charging,Confuses user on battery status,Sensor issue in battery module,Hardware,Repaired sensor,Electrical,T006,6,227,4,2024-11-27,V30,2024-11-05
+T031,Charge session interrupted,Plug got unusually hot,Possible safety hazard,High resistance in wiring,Hardware,Replaced wiring,Maintenance,T008,3,303,2,2024-11-17,V31,2024-11-10
+T032,Charging analysis,Charger refuses to initiate,Affects charging availability,Defective RFID reader,Hardware,Replaced RFID reader,IT,T002,6,287,5,2024-11-28,V32,2024-11-13
+T033,Performance review,Overcharge protection not triggering,Battery overcharge can damage cells,Sensor calibration error,Software,Sensor recalibration,IT,T002,6,345,2,2024-12-01,V33,2024-11-05
+T034,Visual inspection,Loose plug attachment,Charging disrupts if plug moves,Worn out connector latch,Hardware,Replaced latch,Maintenance,T006,1,287,3,2024-11-13,V34,2024-11-13
+T035,Log analysis,Charge session recorded incomplete,Incomplete charge logs affect data accuracy,Software logging issue,Software,Software update,IT,T005,4,426,1,2024-12-08,V35,2024-11-08
+T036,Error from charging station,Thermal sensor error,Cannot monitor temperature accurately,Sensor malfunction,Electrical,Replaced thermal sensor,Maintenance,T005,7,724,2,2024-11-20,V36,2024-11-09
+T037,Driver report,Constant clicking sound during charge,Indicates faulty component,Malfunction in relay,Electrical,Replaced relay,Electrical,T005,5,545,4,2024-11-18,V37,2024-11-07
+T038,Routine diagnostic,Unable to start charge,Charging does not initiate,Faulty onboard charger,Hardware,Replaced onboard charger,Maintenance,T003,6,709,4,2024-12-07,V38,2024-11-06
+T039,Customer feedback,Charge indicator remains static,Misleading battery status,Faulty indicator system,Hardware,Repaired indicator,Electrical,T008,4,136,4,2024-11-22,V39,2024-11-05
+T040,Inspection report,Connector doesn't fit into charging port,Charging session fails,Misalignment of connector,Hardware,Realigned connector,Maintenance,T005,5,285,4,2024-11-26,V40,2024-11-11
+T041,Diagnostic check,Charge rate limited to 1kW,"Slow charging, impacts usability",Faulty power converter,Hardware,Replaced converter,Electrical,T009,5,479,1,2024-11-25,V41,2024-11-13
+T042,Charging station error,Station unable to detect vehicle,No communication between vehicle and charger,Communication failure,Software,Fixed communication issue,IT,T005,2,691,4,2024-12-03,V42,2024-11-05
+T043,Report from technician,Charging takes longer than expected,Inconvenience for users,Faulty charging module,Hardware,Replaced charging module,Maintenance,T003,5,769,4,2024-12-07,V43,2024-11-08
+T044,User complaint,Charging stops after few minutes,Users unable to complete charge cycle,Overheating of charging system,Hardware,Replaced cooling fans,Maintenance,T007,4,653,5,2024-11-26,V44,2024-11-10
+T045,Inspection after service,Intermittent charging failure,Stops charging mid-session,Faulty power plug,Hardware,Replaced power plug,Maintenance,T008,4,231,3,2024-11-25,V45,2024-11-11
+T046,Charging stopped mid-way,Charging interrupted,Vehicle unable to reach full charge,Faulty fuse,Electrical Component Failure,Fuse replacement; system reset,Electrical Team,T006,6,233,4,2024-11-24,V46,2024-11-10
+T047,Error light on dash,Charging error,Driver unable to charge vehicle,Outdated software,Software Issue,Software update; calibration,Software Team,T003,3,213,4,2024-12-04,V47,2024-11-11
+T048,Slow charging observed,Charging slow,Prolonged charging time affects vehicle availability,Damaged cable,Hardware Issue,Cable replacement,Electrical Team,T004,4,397,2,2024-12-09,V48,2024-11-07
+T049,Overheating smell from charging port,Port overheating,Safety risk to vehicle and user,Faulty thermal sensor,Electrical Component Failure,Port and sensor replacement,Electrical Team,T003,1,121,4,2024-11-19,V49,2024-11-12
+T050,Dashboard message: 'Check Charger',Charger malfunction,Unable to initiate charge,Loose connection,Connection Issue,Reboot; secure connections,Maintenance Team,T003,4,409,3,2024-11-18,V50,2024-11-06
+T051,Charging cycles interrupted,Inconsistent charging cycles,Vehicle not reaching full capacity,Defective control module,Hardware Issue,Control module replacement,Electrical Team,T009,8,471,2,2024-11-27,V51,2024-11-13
+T052,Charging light flickers intermittently,Charging stability issue,Inconsistent charging affects charge level,Loose connection,Connection Issue,Firmware update; secured connections,Software Team,T003,3,101,1,2024-11-18,V52,2024-11-13
+T053,Charge level drops post charging,Battery discharges after charge,Limited range for vehicle,Faulty battery cell,Battery Issue,Battery cell replacement,Battery Team,T006,5,264,4,2024-11-27,V53,2024-11-08
+T054,Error code E45 displayed,Charging failure,Charge process unable to start,Faulty relay,Electrical Component Failure,Relay replacement,Electrical Team,T008,6,241,1,2024-11-16,V54,2024-11-08
+T055,High-pitched sound during charging,Unusual noise in charger,Potential electrical fault,Faulty internal component,Electrical Component Failure,Charging unit replacement,Electrical Team,T002,6,362,4,2024-11-16,V55,2024-11-04
+T056,Battery warning light on,Charging incomplete,Vehicle cannot reach full charge,Battery degradation,Battery Issue,Partial battery replacement,Battery Team,T001,5,789,3,2024-11-28,V56,2024-11-13
+T057,Error code E20 on dashboard,Communication error with charger,Vehicle unable to receive charge,Malfunctioning communication module,Hardware Issue,Communication module replacement,Electrical Team,T002,6,681,3,2024-11-16,V57,2024-11-04
+T058,Charger shuts off unexpectedly,Interruption during charging,Unable to complete charge cycle,Circuit breaker fault,Electrical Component Failure,Circuit breaker replacement,Electrical Team,T009,1,300,5,2024-11-13,V58,2024-11-12
+T059,Charge port overheating,Overheating of charging components,Safety risk due to heat,Inadequate cooling,Design Issue,Cooling component upgrade,Engineering Team,T008,6,367,4,2024-11-12,V59,2024-11-04
+T060,Charge port not connecting properly,Loose charging connection,Charge cannot initiate correctly,Misaligned connectors,Physical Damage,Connector realignment,Maintenance Team,T002,8,536,4,2024-11-25,V60,2024-11-13
+T061,Battery warning during charge,Battery voltage issue,Safety concern; possible battery damage,Defective battery regulator,Battery Issue,Regulator replacement,Battery Team,T003,8,519,5,2024-11-20,V61,2024-11-08
+T062,Charge level inconsistent after charging,Erratic charge level,Potential range reduction,Sensor miscalibration,Software Issue,Battery system recalibration,Software Team,T004,8,179,2,2024-12-01,V62,2024-11-06
+T063,Charge rate slower than specification,Suboptimal charging rate,Delayed vehicle availability,Poor quality cable,Hardware Issue,High-quality cable replacement,Electrical Team,T005,2,490,2,2024-11-23,V63,2024-11-08
+T064,Dashboard warning during charge,Battery overheating,Safety risk,Faulty temperature sensor,Electrical Component Failure,Sensor replacement,Battery Team,T008,4,146,2,2024-11-17,V64,2024-11-07
+T065,Charge port damaged,Physical damage to port,Charger unable to connect,Physical damage,Physical Damage,Port replacement,Maintenance Team,T005,8,384,5,2024-12-08,V65,2024-11-13
+T066,Intermittent charging cycles,Charging intermittently halts,Unreliable charging process,Firmware bug,Software Issue,Firmware update,Software Team,T004,2,427,1,2024-11-18,V66,2024-11-11
+T067,Flickering light during charging,Charging light flickers,Indicates unstable charging,Faulty LED indicator,Electrical Component Failure,LED replacement,Electrical Team,T002,5,434,3,2024-12-07,V67,2024-11-09
+T068,Unusual smell near charging area,Overheating risk detected,Potential risk of fire or damage,Defective cooling fan,Hardware Issue,Cooling fan replacement,Engineering Team,T003,6,251,1,2024-11-14,V68,2024-11-12
+T069,Charging speed varied across attempts,Variable charging rate,Inconsistent vehicle availability,System miscalibration,Software Issue,Management system recalibration,Software Team,T009,5,537,4,2024-11-28,V69,2024-11-09
+T070,Charge does not reach full level,Charging stops at 80%,Reduced range,Battery management failure,Battery Issue,Battery system replacement,Battery Team,T003,7,537,1,2024-11-16,V70,2024-11-08
+T071,Charging cable overheats,Excessive heat on cable,Safety hazard during charge,Cable insulation failure,Design Issue,High-temperature cable replacement,Engineering Team,T007,6,546,4,2024-12-10,V71,2024-11-11
+T072,Dashboard shows 'Charge Failure',Charger fails intermittently,Incomplete charge cycle,Loose wiring,Connection Issue,Connection inspection and securing,Maintenance Team,T005,8,743,5,2024-11-17,V72,2024-11-05
+T073,Charging port intermittently unresponsive,Inconsistent charging initiation,Delayed charging process,Faulty connection,Physical Damage,Port replacement,Maintenance Team,T010,7,214,3,2024-11-21,V73,2024-11-07
+T074,Battery overheats quickly,Overheating of battery,Safety concern due to heat,Faulty thermal management,Battery Issue,Module replacement,Battery Team,T002,7,185,5,2024-11-26,V74,2024-11-13
+T075,Charging stopped with error code E50,Software issue,Charging stops unexpectedly,Software glitch,Software Issue,System reset and update,Software Team,T003,3,369,3,2024-12-06,V75,2024-11-06

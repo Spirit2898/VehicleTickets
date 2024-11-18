@@ -1,0 +1,87 @@
+Part ID,Part Name,Category,Supplier ID,Stock Quantity,Minimum Stock Level,Unit Price (USD),Warranty Period (Months),Part Manufacturer,Model Compatibility
+SP001,Hydraulic Pump,Mechanical,S001,100,15,250.0,24,Bosch,"Model 1, Model 3"
+SP002,Ball Bearing,Mechanical,S002,500,50,5.5,12,SKF,"Model 2, Model 3"
+SP003,Capacitor,Electrical,S003,200,20,1.2,36,Panasonic,"Model 1, Model 2, Model 3"
+SP004,Gearbox,Mechanical,S004,20,5,1500.0,18,Siemens,Model 1
+SP005,Circuit Breaker,Electrical,S005,75,10,45.0,24,Schneider Electric,"Model 3, Model 2"
+SP006,Air Filter,Mechanical,S006,300,30,20.0,6,Mann+Hummel,"Model 1, Model 2"
+SP007,Solenoid Valve,Hydraulic,S007,80,15,35.0,18,Festo,"Model 1, Model 3"
+SP008,Servo Motor,Electronic,S008,15,3,250.0,24,Mitsubishi Electric,"Model 2, Model 3"
+SP009,LED Indicator,Electronic,S009,120,10,2.5,12,Osram,"Model 1, Model 2"
+SP010,Fan Belt,Mechanical,S010,150,25,10.0,12,Gates Corporation,"Model 1, Model 2, Model 3"
+SP011,Hydraulic Cylinder,Mechanical,S011,120,20,300.0,18,Parker Hannifin,"Model 1, Model 2"
+SP012,Pressure Sensor,Electronic,S012,60,10,75.0,24,Honeywell,"Model 1, Model 3"
+SP013,Voltage Regulator,Electrical,S013,180,20,15.5,36,Texas Instruments,"Model 2, Model 3"
+SP014,Timing Belt,Mechanical,S014,200,25,12.0,12,Continental,"Model 1, Model 2"
+SP015,Stepper Motor,Electronic,S015,50,5,95.0,24,Nidec,Model 3
+SP016,O-Ring Kit,Mechanical,S016,500,50,8.0,12,Freudenberg,"Model 1, Model 3"
+SP017,Fuel Injector,Mechanical,S017,70,15,220.0,18,Delphi,Model 2
+SP018,Control Relay,Electrical,S018,150,20,30.0,24,ABB,"Model 1, Model 2, Model 3"
+SP019,Lithium Battery,Electrical,S019,300,40,50.0,12,Samsung SDI,Model 3
+SP020,Power Supply Unit,Electronic,S020,90,15,120.0,36,Mean Well,"Model 2, Model 3"
+SP021,Air Compressor,Mechanical,S021,40,10,450.0,24,Atlas Copco,"Model 1, Model 2"
+SP022,Fuse Box,Electrical,S022,250,30,20.0,12,Eaton,"Model 1, Model 3"
+SP023,Thermostat,Electrical,S023,300,35,25.0,18,Danfoss,Model 2
+SP024,Shock Absorber,Mechanical,S024,110,20,150.0,24,KYB Corporation,"Model 1, Model 3"
+SP025,LED Driver,Electronic,S025,200,15,18.0,12,Philips,"Model 2, Model 3"
+SP026,Cooling Fan,Electronic,S026,180,25,35.0,24,Delta Electronics,Model 1
+SP027,Brake Pad,Mechanical,S027,400,50,15.0,12,Brembo,"Model 1, Model 2"
+SP028,Hydraulic Hose,Hydraulic,S028,150,20,40.0,18,Gates Corporation,Model 3
+SP029,Magnetic Sensor,Electronic,S029,80,10,65.0,36,Omron,"Model 1, Model 2"
+SP030,Bearing Block,Mechanical,S030,50,10,55.0,24,INA Bearings,"Model 1, Model 3"
+SP031,Switchgear,Electrical,S031,70,15,400.0,24,GE,"Model 1, Model 2"
+SP032,Hydraulic Fluid,Hydraulic,S032,300,30,25.0,12,Shell,"Model 2, Model 3"
+SP033,Tensioner Pulley,Mechanical,S033,250,30,10.0,18,SKF,"Model 1, Model 3"
+SP034,Solar Panel,Electronic,S034,20,5,800.0,36,First Solar,Model 3
+SP035,Heat Exchanger,Mechanical,S035,50,10,550.0,24,Danfoss,"Model 1, Model 2"
+SP036,Stepper Driver,Electronic,S036,150,20,75.0,24,Trinamic,"Model 1, Model 2, Model 3"
+SP037,Ball Joint,Mechanical,S037,400,50,12.0,12,Moog,"Model 1, Model 3"
+SP038,Pressure Relief Valve,Hydraulic,S038,100,15,85.0,18,Eaton,"Model 2, Model 3"
+SP039,Inductive Sensor,Electronic,S039,300,30,45.0,36,Balluff,"Model 1, Model 2"
+SP040,Insulation Tape,Electrical,S040,500,50,1.5,12,3M,"Model 2, Model 3"
+SP041,Electric Motor,Mechanical,S041,90,10,300.0,24,Siemens,"Model 2, Model 3"
+SP042,Temperature Sensor,Electrical,S042,150,20,18.0,18,Honeywell,"Model 1, Model 2"
+SP043,Bearing,Mechanical,S043,500,50,7.0,12,SKF,"Model 1, Model 2"
+SP044,PLC Module,Electronic,S044,75,15,220.0,36,Rockwell Automation,Model 3
+SP045,Relay,Electrical,S045,200,25,12.5,24,Schneider Electric,"Model 1, Model 3"
+SP046,Motor Driver,Electronic,S046,50,10,50.0,18,Texas Instruments,Model 2
+SP047,Pressure Gauge,Mechanical,S047,150,30,20.0,12,WIKA,"Model 1, Model 2"
+SP048,Battery Charger,Electrical,S048,200,25,45.0,24,Bosch,Model 3
+SP049,Inductive Heater,Electronic,S049,120,20,110.0,18,Inductotherm,Model 1
+SP050,Hydraulic Pump Motor,Mechanical,S050,80,15,350.0,12,Parker Hannifin,"Model 2, Model 3"
+SP051,Welding Machine,Electrical,S051,40,5,1500.0,24,Lincoln Electric,Model 1
+SP052,Electric Actuator,Mechanical,S052,60,10,400.0,18,Emerson,"Model 1, Model 2"
+SP053,Hydraulic Valve,Hydraulic,S053,100,20,120.0,12,Eaton,Model 3
+SP054,Rectifier,Electrical,S054,250,30,22.0,24,ABB,"Model 2, Model 3"
+SP055,Condenser,Mechanical,S055,300,40,35.0,18,Carrier,"Model 1, Model 2"
+SP056,Diode,Electrical,S056,500,50,1.5,12,NXP,Model 3
+SP057,AC/DC Converter,Electronic,S057,80,10,75.0,24,Mean Well,"Model 1, Model 2"
+SP058,Heat Sink,Mechanical,S058,200,30,15.0,18,Thermal Solutions,Model 3
+SP059,Photovoltaic Cell,Electronic,S059,30,5,200.0,36,First Solar,Model 2
+SP060,Ball Valve,Hydraulic,S060,150,25,30.0,12,Emerson,"Model 1, Model 2"
+SP061,Transformer,Electrical,S061,100,15,250.0,24,Siemens,Model 3
+SP062,Inverter,Electronic,S062,120,20,180.0,18,Schneider Electric,"Model 1, Model 2"
+SP063,Vacuum Pump,Mechanical,S063,50,10,600.0,12,Leybold,Model 3
+SP064,Pneumatic Cylinder,Mechanical,S064,180,25,75.0,24,Parker Hannifin,"Model 1, Model 2"
+SP065,AC Motor,Mechanical,S065,70,15,200.0,18,Siemens,"Model 1, Model 3"
+SP066,Current Transformer,Electrical,S066,90,20,60.0,12,GE,"Model 2, Model 3"
+SP067,Thermal Switch,Electrical,S067,250,30,3.0,18,Schneider Electric,Model 1
+SP068,Gear Motor,Mechanical,S068,150,25,500.0,24,Bosch,"Model 1, Model 3"
+SP069,Voltage Regulator,Electrical,S069,80,10,15.0,12,Texas Instruments,Model 2
+SP070,Stepper Motor Driver,Electronic,S070,120,15,95.0,24,Trinamic,"Model 1, Model 3"
+SP071,Microcontroller,Electronic,S071,400,50,7.5,18,Microchip,"Model 1, Model 2"
+SP072,Solenoid Coil,Hydraulic,S072,60,10,45.0,12,Festo,Model 3
+SP073,Electronic Switch,Electronic,S073,250,30,30.0,24,Omron,"Model 1, Model 2"
+SP074,Hydraulic Motor,Mechanical,S074,100,20,700.0,12,Parker,Model 1
+SP075,Thermoelectric Cooler,Electronic,S075,50,10,150.0,18,TEC,Model 3
+SP076,Pressure Transducer,Mechanical,S076,120,25,60.0,12,Honeywell,Model 2
+SP077,Current Sensor,Electronic,S077,80,15,55.0,24,LEM,"Model 1, Model 2"
+SP078,Inductor,Electronic,S078,200,25,10.0,18,Murata,Model 3
+SP079,Hydraulic Filter,Mechanical,S079,300,35,40.0,12,Mann+Hummel,"Model 1, Model 2"
+SP080,Battery Pack,Electrical,S080,150,30,120.0,24,Panasonic,Model 2
+SP081,Control Panel,Electronic,S081,70,15,500.0,18,Schneider Electric,"Model 1, Model 3"
+SP082,Heat Pump,Mechanical,S082,120,20,1000.0,12,Carrier,"Model 1, Model 2"
+SP083,Inductive Heating Coil,Electronic,S083,90,10,75.0,18,Inductotherm,Model 3
+SP084,Thermal Camera,Electronic,S084,80,5,2500.0,36,FLIR,Model 2
+SP085,Thermal Insulation,Mechanical,S085,300,50,5.0,12,Johns Manville,"Model 1, Model 2"
+SP086,Rectifier Bridge,Electrical,S086,150,30,25.0,24,Vishay,Model 3
